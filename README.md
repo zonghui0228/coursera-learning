@@ -9,7 +9,7 @@ This repository is aimed to record my learning progress in Coursera.
   - Structuring Machine Learning Projects
   - Convolutional Neural Networks
   - Sequence Models
-- IBM AI engineering Professional Certificate
+- IBM AI Engineering Professional Certificate
   - [Machine Learning with Python](https://github.com/zonghui0228/coursera-learning/tree/master/IBM%20AI%20Engineering%20Professional%20Certificate/Machine%20Learning%20with%20Python)
   - [Scalable Machine Learning on Big Data using Apache Spark](https://github.com/zonghui0228/coursera-learning/tree/master/IBM%20AI%20Engineering%20Professional%20Certificate/Scalable%20Machine%20Learning%20on%20Big%20Data%20using%20Apache%20Spark)
   - [Introduction to Deep Learning & Neural Networks with Keras](https://github.com/zonghui0228/coursera-learning/tree/master/IBM%20AI%20Engineering%20Professional%20Certificate/Introduction%20to%20Deep%20Learning%20%26%20Neural%20Networks%20with%20Keras)
