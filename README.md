@@ -1,6 +1,9 @@
+<img src="https://d3njjcbhbojbot.cloudfront.net/web/images/favicons/apple-touch-icon-60x60.png" width="100" align="right">
+
 # coursera-learning
-This repository is aimed to record my learning progress in Coursera.
+> Coursera is a world-wide online learning platform that offers massive open online courses (MOOC), specializations, degrees, professional and mastertrack courses.
 ***
+This repository is aimed to record my learning progress in Coursera.
 
 - Machine Learning
 - Deep Learning Specialization
