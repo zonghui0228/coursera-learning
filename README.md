@@ -1,7 +1,7 @@
 <img src="https://d3njjcbhbojbot.cloudfront.net/web/images/favicons/apple-touch-icon-60x60.png"  align="right">
 
 # Coursera learning
-> Coursera is a world-wide online learning platform that offers massive open online courses (MOOC), specializations, degrees, professional and mastertrack courses.
+> **Coursera** is a world-wide online learning platform that offers massive open online courses (MOOC), specializations, degrees, professional and mastertrack courses.
 ***
 This repository is aimed to record my learning progress in [Coursera](https://www.coursera.org/).
 
