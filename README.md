@@ -5,13 +5,13 @@
 ***
 This repository is aimed to record my learning progress in [Coursera](https://www.coursera.org/).
 
-- Machine Learning
+- [Machine Learning](https://github.com/zonghui0228/coursera-learning/tree/master/Machine%20Learning)
 - Deep Learning Specialization
-  - Neural Networks and Deep Learning
-  - Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
-  - Structuring Machine Learning Projects
-  - Convolutional Neural Networks
-  - Sequence Models
+  - [Neural Networks and Deep Learning](https://github.com/zonghui0228/coursera-learning/tree/master/Deep%20Learning%20Specialization/Neural%20Networks%20and%20Deep%20Learning)
+  - [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://github.com/zonghui0228/coursera-learning/tree/master/Deep%20Learning%20Specialization/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization)
+  - [Structuring Machine Learning Projects](https://github.com/zonghui0228/coursera-learning/tree/master/Deep%20Learning%20Specialization/Structuring%20Machine%20Learning%20Projects)
+  - [Convolutional Neural Networks](https://github.com/zonghui0228/coursera-learning/tree/master/Deep%20Learning%20Specialization/Convolutional%20Neural%20Networks)
+  - [Sequence Models](https://github.com/zonghui0228/coursera-learning/tree/master/Deep%20Learning%20Specialization/Sequence%20Models)
 - IBM AI Engineering Professional Certificate
   - [Machine Learning with Python](https://github.com/zonghui0228/coursera-learning/tree/master/IBM%20AI%20Engineering%20Professional%20Certificate/Machine%20Learning%20with%20Python)
   - [Scalable Machine Learning on Big Data using Apache Spark](https://github.com/zonghui0228/coursera-learning/tree/master/IBM%20AI%20Engineering%20Professional%20Certificate/Scalable%20Machine%20Learning%20on%20Big%20Data%20using%20Apache%20Spark)
