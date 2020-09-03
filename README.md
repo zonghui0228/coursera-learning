@@ -22,3 +22,6 @@ This repository is aimed to record my learning progress in [Coursera](https://ww
   - [Natural Language Processing with Probabilistic Models](https://github.com/zonghui0228/coursera-learning/tree/master/Natural%20Language%20Processing%20Specialization/Natural%20Language%20Processing%20with%20Probabilistic%20Models)
   - [Natural Language Processing with Sequence Models](https://github.com/zonghui0228/coursera-learning/tree/master/Natural%20Language%20Processing%20Specialization/Natural%20Language%20Processing%20with%20Sequence%20Models)
 
+***
+
+The quiz and programming notebook is belong to Coursera. Please Do Not use them for any other purposes.
