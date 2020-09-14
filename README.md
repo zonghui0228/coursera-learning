@@ -17,6 +17,7 @@ This repository is aimed to record my learning progress in [Coursera](https://ww
   - [Scalable Machine Learning on Big Data using Apache Spark](https://github.com/zonghui0228/coursera-learning/tree/master/IBM%20AI%20Engineering%20Professional%20Certificate/Scalable%20Machine%20Learning%20on%20Big%20Data%20using%20Apache%20Spark)
   - [Introduction to Deep Learning & Neural Networks with Keras](https://github.com/zonghui0228/coursera-learning/tree/master/IBM%20AI%20Engineering%20Professional%20Certificate/Introduction%20to%20Deep%20Learning%20%26%20Neural%20Networks%20with%20Keras)
   - [Deep Neural Networks with PyTorch](https://github.com/zonghui0228/coursera-learning/tree/master/IBM%20AI%20Engineering%20Professional%20Certificate/Deep%20Neural%20Networks%20with%20Pytorch)
+  - [Building Deep Learning Models with TensorFlow](https://github.com/zonghui0228/coursera-learning/tree/master/IBM%20AI%20Engineering%20Professional%20Certificate/Building%20Deep%20Learning%20Models%20with%20TensorFlow)
 - Natural Language Processing Specialization
   - [Natural Language Processing with Classification and Vector Spaces](https://github.com/zonghui0228/coursera-learning/tree/master/Natural%20Language%20Processing%20Specialization/Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces)
   - [Natural Language Processing with Probabilistic Models](https://github.com/zonghui0228/coursera-learning/tree/master/Natural%20Language%20Processing%20Specialization/Natural%20Language%20Processing%20with%20Probabilistic%20Models)
