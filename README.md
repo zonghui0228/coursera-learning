@@ -25,4 +25,4 @@ This repository is aimed to record my learning progress in [Coursera](https://ww
 
 ***
 
-The quiz and programming notebook is belong to Coursera. Please do not use them for any other purpose.
+The quiz and programming notebooks are belong to Coursera. Please do not use them for any other purpose.
