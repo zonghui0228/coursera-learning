@@ -22,6 +22,7 @@ This repository is aimed to record my learning progress in [Coursera](https://ww
   - [Natural Language Processing with Classification and Vector Spaces](https://github.com/zonghui0228/coursera-learning/tree/master/Natural%20Language%20Processing%20Specialization/Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces)
   - [Natural Language Processing with Probabilistic Models](https://github.com/zonghui0228/coursera-learning/tree/master/Natural%20Language%20Processing%20Specialization/Natural%20Language%20Processing%20with%20Probabilistic%20Models)
   - [Natural Language Processing with Sequence Models](https://github.com/zonghui0228/coursera-learning/tree/master/Natural%20Language%20Processing%20Specialization/Natural%20Language%20Processing%20with%20Sequence%20Models)
+  - [Natural Language Processing with Attention Models](https://github.com/zonghui0228/coursera-learning/tree/master/Natural%20Language%20Processing%20Specialization/Natural%20Language%20Processing%20with%20Attention%20Models)
 
 ***
 
