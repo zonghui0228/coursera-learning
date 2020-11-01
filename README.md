@@ -32,4 +32,5 @@ This repository is aimed to record my learning progress in [Coursera](https://ww
 
 ***
 The quiz and programming notebooks are belong to Coursera. Please do not use them for any other purpose.
+<img src="https://visitor-badge.laobi.icu/badge?page_id=zonghui0228.coursera-learning" alt="visitor badge"/>
 
