@@ -5,8 +5,7 @@
 ***
 This repository is aimed to record my learning progress in [Coursera](https://www.coursera.org/).
 
-- Machine Learning
-  
+- **Machine Learning**
   - [x] [Machine Learning](https://www.coursera.org/learn/machine-learning/home/welcome)
 - Deep Learning Specialization
   - [x] [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning/home/welcome)
@@ -14,33 +13,31 @@ This repository is aimed to record my learning progress in [Coursera](https://ww
   - [x] [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects/home/welcome)
   - [x] [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks/home/welcome)
   - [x] [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models/home/welcome)
-- IBM AI Engineering Professional Certificate
+- **IBM AI Engineering Professional Certificate**
   - [x] [Machine Learning with Python](https://www.coursera.org/learn/machine-learning-with-python/home/welcome)
   
   - [x] [Scalable Machine Learning on Big Data using Apache Spark](https://www.coursera.org/learn/machine-learning-big-data-apache-spark/home/welcome)
   
-  - [ ] [Introduction to Deep Learning & Neural Networks with Keras](https://www.coursera.org/learn/introduction-to-deep-learning-with-keras/home/welcome)
-  
-    [View Certificate](https://www.coursera.org/account/accomplishments/records/6WKBDSV2AAXS)
+  - [x] [Introduction to Deep Learning & Neural Networks with Keras](https://www.coursera.org/learn/introduction-to-deep-learning-with-keras/home/welcome)
   
   - [x] [Deep Neural Networks with PyTorch](https://www.coursera.org/learn/deep-neural-networks-with-pytorch/home/welcome)
   
   - [x] [Building Deep Learning Models with TensorFlow](https://www.coursera.org/learn/building-deep-learning-models-with-tensorflow/home/welcome)
   
   - [x] [AI Capstone Project with Deep Learning](https://www.coursera.org/learn/ai-deep-learning-capstone/home/welcome)
-- Natural Language Processing Specialization
+- **Natural Language Processing Specialization**
   - [x] [Natural Language Processing with Classification and Vector Spaces](https://www.coursera.org/learn/classification-vector-spaces-in-nlp/home/welcome)
   - [x] [Natural Language Processing with Probabilistic Models](https://www.coursera.org/learn/probabilistic-models-in-nlp/home/welcome)
   - [x] [Natural Language Processing with Sequence Models](https://www.coursera.org/learn/sequence-models-in-nlp/home/welcome)
   - [x] [Natural Language Processing with Attention Models](https://www.coursera.org/learn/attention-models-in-nlp/home/welcome)
-- Generative Adversarial Networks (GANs) Specialization
-  - [ ] Build Basic Generative Adversarial Networks (GANs)
-  - [ ] Build Better Generative Adversarial Networks (GANs)
-  - [ ] Apply Generative Adversarial Networks (GANs)
-- AI for Medicine Specialization
+- **AI for Medicine Specialization**
   - [ ] [AI for Medical Diagnosis](https://www.coursera.org/learn/ai-for-medical-diagnosis/home/welcome)
   - [ ] [AI for Medical Prognosis](https://www.coursera.org/learn/ai-for-medical-prognosis/home/welcome)
   - [ ] [AI For Medical Treatment](https://www.coursera.org/learn/ai-for-medical-treatment/home/welcome)
+- **Generative Adversarial Networks (GANs) Specialization**
+  - [ ] Build Basic Generative Adversarial Networks (GANs)
+  - [ ] Build Better Generative Adversarial Networks (GANs)
+  - [ ] Apply Generative Adversarial Networks (GANs)
 
 ***
 
