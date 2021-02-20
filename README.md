@@ -1,4 +1,4 @@
-<img src="https://github.com/zonghui0228/coursera-learning/blob/master/coursera%20logo.png"  width="100" height="100" align="right">
+<img src="https://github.com/zonghui0228/coursera-learning/blob/master/coursera%20logo.png"  width="120" height="20" align="right">
 
 # Coursera learning
 > **Coursera** is a world-wide online learning platform that offers massive open online courses (MOOC), specializations, degrees, professional and mastertrack courses.
