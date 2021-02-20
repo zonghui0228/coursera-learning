@@ -6,25 +6,33 @@
 This repository is aimed to record my learning progress in [Coursera](https://www.coursera.org/).
 
 - Machine Learning
-  - [x] [Machine Learning](https://github.com/zonghui0228/coursera-learning/tree/master/Machine%20Learning)
+  
+  - [x] [Machine Learning](https://www.coursera.org/learn/machine-learning/home/welcome)
 - Deep Learning Specialization
-  - [x] [Neural Networks and Deep Learning](https://github.com/zonghui0228/coursera-learning/tree/master/Deep%20Learning%20Specialization/Neural%20Networks%20and%20Deep%20Learning)
-  - [x] [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://github.com/zonghui0228/coursera-learning/tree/master/Deep%20Learning%20Specialization/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization)
-  - [x] [Structuring Machine Learning Projects](https://github.com/zonghui0228/coursera-learning/tree/master/Deep%20Learning%20Specialization/Structuring%20Machine%20Learning%20Projects)
-  - [x] [Convolutional Neural Networks](https://github.com/zonghui0228/coursera-learning/tree/master/Deep%20Learning%20Specialization/Convolutional%20Neural%20Networks)
-  - [x] [Sequence Models](https://github.com/zonghui0228/coursera-learning/tree/master/Deep%20Learning%20Specialization/Sequence%20Models)
+  - [x] [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning/home/welcome)
+  - [x] [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network/home/welcome)
+  - [x] [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects/home/welcome)
+  - [x] [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks/home/welcome)
+  - [x] [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models/home/welcome)
 - IBM AI Engineering Professional Certificate
-  - [x] [Machine Learning with Python](https://github.com/zonghui0228/coursera-learning/tree/master/IBM%20AI%20Engineering%20Professional%20Certificate/Machine%20Learning%20with%20Python)
-  - [x] [Scalable Machine Learning on Big Data using Apache Spark](https://github.com/zonghui0228/coursera-learning/tree/master/IBM%20AI%20Engineering%20Professional%20Certificate/Scalable%20Machine%20Learning%20on%20Big%20Data%20using%20Apache%20Spark)
-  - [x] [Introduction to Deep Learning & Neural Networks with Keras](https://github.com/zonghui0228/coursera-learning/tree/master/IBM%20AI%20Engineering%20Professional%20Certificate/Introduction%20to%20Deep%20Learning%20%26%20Neural%20Networks%20with%20Keras)
-  - [x] [Deep Neural Networks with PyTorch](https://github.com/zonghui0228/coursera-learning/tree/master/IBM%20AI%20Engineering%20Professional%20Certificate/Deep%20Neural%20Networks%20with%20Pytorch)
-  - [x] [Building Deep Learning Models with TensorFlow](https://github.com/zonghui0228/coursera-learning/tree/master/IBM%20AI%20Engineering%20Professional%20Certificate/Building%20Deep%20Learning%20Models%20with%20TensorFlow)
-  - [x] [AI Capstone Project with Deep Learning](https://github.com/zonghui0228/coursera-learning/tree/master/IBM%20AI%20Engineering%20Professional%20Certificate/AI%20Capstone%20Project%20with%20Deep%20Learning)
+  - [x] [Machine Learning with Python](https://www.coursera.org/learn/machine-learning-with-python/home/welcome)
+  
+  - [x] [Scalable Machine Learning on Big Data using Apache Spark](https://www.coursera.org/learn/machine-learning-big-data-apache-spark/home/welcome)
+  
+  - [ ] [Introduction to Deep Learning & Neural Networks with Keras](https://www.coursera.org/learn/introduction-to-deep-learning-with-keras/home/welcome)
+  
+    [View Certificate](https://www.coursera.org/account/accomplishments/records/6WKBDSV2AAXS)
+  
+  - [x] [Deep Neural Networks with PyTorch](https://www.coursera.org/learn/deep-neural-networks-with-pytorch/home/welcome)
+  
+  - [x] [Building Deep Learning Models with TensorFlow](https://www.coursera.org/learn/building-deep-learning-models-with-tensorflow/home/welcome)
+  
+  - [x] [AI Capstone Project with Deep Learning](https://www.coursera.org/learn/ai-deep-learning-capstone/home/welcome)
 - Natural Language Processing Specialization
-  - [x] [Natural Language Processing with Classification and Vector Spaces](https://github.com/zonghui0228/coursera-learning/tree/master/Natural%20Language%20Processing%20Specialization/Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces)
-  - [x] [Natural Language Processing with Probabilistic Models](https://github.com/zonghui0228/coursera-learning/tree/master/Natural%20Language%20Processing%20Specialization/Natural%20Language%20Processing%20with%20Probabilistic%20Models)
-  - [x] [Natural Language Processing with Sequence Models](https://github.com/zonghui0228/coursera-learning/tree/master/Natural%20Language%20Processing%20Specialization/Natural%20Language%20Processing%20with%20Sequence%20Models)
-  - [x] [Natural Language Processing with Attention Models](https://github.com/zonghui0228/coursera-learning/tree/master/Natural%20Language%20Processing%20Specialization/Natural%20Language%20Processing%20with%20Attention%20Models)
+  - [x] [Natural Language Processing with Classification and Vector Spaces](https://www.coursera.org/learn/classification-vector-spaces-in-nlp/home/welcome)
+  - [x] [Natural Language Processing with Probabilistic Models](https://www.coursera.org/learn/probabilistic-models-in-nlp/home/welcome)
+  - [x] [Natural Language Processing with Sequence Models](https://www.coursera.org/learn/sequence-models-in-nlp/home/welcome)
+  - [x] [Natural Language Processing with Attention Models](https://www.coursera.org/learn/attention-models-in-nlp/home/welcome)
 - Generative Adversarial Networks (GANs) Specialization
   - [ ] Build Basic Generative Adversarial Networks (GANs)
   - [ ] Build Better Generative Adversarial Networks (GANs)
