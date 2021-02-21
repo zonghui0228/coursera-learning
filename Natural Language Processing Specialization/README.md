@@ -1,4 +1,4 @@
-# Contents
+# contents
 
 **Natural Language Processing with Classification and Vector Spaces**
 
@@ -56,29 +56,17 @@
 **Natural Language Processing with Attention Models**
 
 - [C4_W1_Assignment.ipynb](https://nbviewer.jupyter.org/github/zonghui0228/coursera-learning/blob/master/Natural%20Language%20Processing%20Specialization/Natural%20Language%20Processing%20with%20Attention%20Models/C4_W1_Assignment.ipynb)
-
 - [C4_W1_Ungraded_Lab_Bleu_Score.ipynb](https://nbviewer.jupyter.org/github/zonghui0228/coursera-learning/blob/master/Natural%20Language%20Processing%20Specialization/Natural%20Language%20Processing%20with%20Attention%20Models/C4_W1_Ungraded_Lab_Bleu_Score.ipynb)
-
 - [C4_W1_Ungraded_Lab_Stack_Semantics.ipynb](https://nbviewer.jupyter.org/github/zonghui0228/coursera-learning/blob/master/Natural%20Language%20Processing%20Specialization/Natural%20Language%20Processing%20with%20Attention%20Models/C4_W1_Ungraded_Lab_Stack_Semantics.ipynb)
-
 - [C4_W2_Assignment.ipynb](https://nbviewer.jupyter.org/github/zonghui0228/coursera-learning/blob/master/Natural%20Language%20Processing%20Specialization/Natural%20Language%20Processing%20with%20Attention%20Models/C4_W2_Assignment.ipynb)
-
 - [C4_W2_lecture_notebook_Attention.ipynb](https://nbviewer.jupyter.org/github/zonghui0228/coursera-learning/blob/master/Natural%20Language%20Processing%20Specialization/Natural%20Language%20Processing%20with%20Attention%20Models/C4_W2_lecture_notebook_Attention.ipynb)
-
 - [C4_W2_lecture_notebook_Transformer_Decoder.ipynb](https://nbviewer.jupyter.org/github/zonghui0228/coursera-learning/blob/master/Natural%20Language%20Processing%20Specialization/Natural%20Language%20Processing%20with%20Attention%20Models/C4_W2_lecture_notebook_Transformer_Decoder.ipynb)
-
 - [C4_W3_Assignment.ipynb](https://nbviewer.jupyter.org/github/zonghui0228/coursera-learning/blob/master/Natural%20Language%20Processing%20Specialization/Natural%20Language%20Processing%20with%20Attention%20Models/C4_W3_Assignment.ipynb)
-
 - [C4_W3_Assignment_Ungraded_BERT_Loss.ipynb](https://nbviewer.jupyter.org/github/zonghui0228/coursera-learning/blob/master/Natural%20Language%20Processing%20Specialization/Natural%20Language%20Processing%20with%20Attention%20Models/C4_W3_Assignment_Ungraded_BERT_Loss.ipynb)
-
 - [C4_W3_Assignment_Ungraded_T5.ipynb](https://nbviewer.jupyter.org/github/zonghui0228/coursera-learning/blob/master/Natural%20Language%20Processing%20Specialization/Natural%20Language%20Processing%20with%20Attention%20Models/C4_W3_Assignment_Ungraded_T5.ipynb)
-
 - [C4_W3_SentencePiece_and_BPE.ipynb](https://nbviewer.jupyter.org/github/zonghui0228/coursera-learning/blob/master/Natural%20Language%20Processing%20Specialization/Natural%20Language%20Processing%20with%20Attention%20Models/C4_W3_SentencePiece_and_BPE.ipynb)
-
 - [C4_W4_Assignment.ipynb](https://nbviewer.jupyter.org/github/zonghui0228/coursera-learning/blob/master/Natural%20Language%20Processing%20Specialization/Natural%20Language%20Processing%20with%20Attention%20Models/C4_W4_Assignment.ipynb)
-
 - [C4_W4_Ungraded_Lab_Reformer_LSH.ipynb](https://nbviewer.jupyter.org/github/zonghui0228/coursera-learning/blob/master/Natural%20Language%20Processing%20Specialization/Natural%20Language%20Processing%20with%20Attention%20Models/C4_W4_Ungraded_Lab_Reformer_LSH.ipynb)
-
 - [C4_W4_Ungraded_Lab_Revnet.ipynb](https://nbviewer.jupyter.org/github/zonghui0228/coursera-learning/blob/master/Natural%20Language%20Processing%20Specialization/Natural%20Language%20Processing%20with%20Attention%20Models/C4_W4_Ungraded_Lab_Revnet.ipynb)
 
   
