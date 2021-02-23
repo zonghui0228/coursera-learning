@@ -28,7 +28,7 @@ This repository is aimed to record my learning progress in [Coursera](https://ww
 - **AI for Medicine Specialization**
   - [ ] [AI for Medical Diagnosis](https://www.coursera.org/learn/ai-for-medical-diagnosis/home/welcome)
   - [ ] [AI for Medical Prognosis](https://www.coursera.org/learn/ai-for-medical-prognosis/home/welcome)
-  - [ ] [AI For Medical Treatment](https://www.coursera.org/learn/ai-for-medical-treatment/home/welcome)
+  - [x] [AI For Medical Treatment](https://www.coursera.org/learn/ai-for-medical-treatment/home/welcome)
 - **Generative Adversarial Networks (GANs) Specialization**
   - [ ] Build Basic Generative Adversarial Networks (GANs)
   - [ ] Build Better Generative Adversarial Networks (GANs)

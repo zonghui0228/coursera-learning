@@ -7,21 +7,30 @@
 **AI for Medical Treatment**
 
 - **week 1**
-  - AI4M_C3_M1_lecture_nb_pandas
-  - AI4M_C3_M1_lecture_nb_sklearn
-  - AI4M_C3_M1_lecture_notebook_logit
-  - Quiz Measuring Treatment Effects
-  - C3M1_Assignment: Estimating Treatment Effect Using Machine Learning
+  - Labs:
+    - [AI4M_C3_M1_lecture_nb_pandas](https://nbviewer.jupyter.org/github/zonghui0228/coursera-learning/blob/master/AI%20for%20Medicine%20Specialization/AI%20for%20Medical%20Treatment/Week%201/AI4M_C3_M1_lecture_nb_pandas.ipynb)
+    - [AI4M_C3_M1_lecture_nb_sklearn](https://nbviewer.jupyter.org/github/zonghui0228/coursera-learning/blob/master/AI%20for%20Medicine%20Specialization/AI%20for%20Medical%20Treatment/Week%201/AI4M_C3_M1_lecture_nb_sklearn.ipynb)
+    - [AI4M_C3_M1_lecture_notebook_logit](https://nbviewer.jupyter.org/github/zonghui0228/coursera-learning/blob/master/AI%20for%20Medicine%20Specialization/AI%20for%20Medical%20Treatment/Week%201/AI4M_C3_M1_lecture_notebook_logit.ipynb)
+  - Quiz:
+    - [Measuring Treatment Effects](https://github.com/zonghui0228/coursera-learning/blob/master/AI%20for%20Medicine%20Specialization/AI%20for%20Medical%20Treatment/Week%201/Quiz%20Measuring%20Treatment%20Effects.pdf)
+  - Assignment:
+    - [C3M1_Assignment: Estimating Treatment Effect Using Machine Learning](https://nbviewer.jupyter.org/github/zonghui0228/coursera-learning/blob/master/AI%20for%20Medicine%20Specialization/AI%20for%20Medical%20Treatment/Week%201/C3M1_Assignment.ipynb)
 - **week 2**
-  - AI4M_C3_M2_lecture_notebook_bert
-  - AI4M_C3_M2_lecture_notebook_clean
-  - AI4M_C3_M2_lecture_notebook_negbio
-  - Quiz  Information Extraction with NLP
-  - C3M2_Assignment: Natural Language Entity Extraction
+  - Labs:
+    - [AI4M_C3_M2_lecture_notebook_bert](https://nbviewer.jupyter.org/github/zonghui0228/coursera-learning/blob/master/AI%20for%20Medicine%20Specialization/AI%20for%20Medical%20Treatment/Week%202/AI4M_C3_M2_lecture_notebook_bert.ipynb)
+    - [AI4M_C3_M2_lecture_notebook_clean](https://nbviewer.jupyter.org/github/zonghui0228/coursera-learning/blob/master/AI%20for%20Medicine%20Specialization/AI%20for%20Medical%20Treatment/Week%202/AI4M_C3_M2_lecture_notebook_bert.ipynb)
+    - [AI4M_C3_M2_lecture_notebook_negbio](https://nbviewer.jupyter.org/github/zonghui0228/coursera-learning/blob/master/AI%20for%20Medicine%20Specialization/AI%20for%20Medical%20Treatment/Week%202/AI4M_C3_M2_lecture_notebook_negbio.ipynb)
+  - Quiz:
+    - [Information Extraction with NLP](https://github.com/zonghui0228/coursera-learning/blob/master/AI%20for%20Medicine%20Specialization/AI%20for%20Medical%20Treatment/Week%202/Quiz%20%20Information%20Extraction%20with%20NLP.pdf)
+  - Assignment:
+    - [C3M2_Assignment: Natural Language Entity Extraction](https://nbviewer.jupyter.org/github/zonghui0228/coursera-learning/blob/master/AI%20for%20Medicine%20Specialization/AI%20for%20Medical%20Treatment/Week%202/C3M2_Assignment.ipynb)
 - **week 3**
-  - AI4M_C3_M3_lecture_notebook_gradcam
-  - AI4M_C3_M3_lecture_notebook_gradcam_2
-  - AI4M_C3_M3_lecture_notebook_permutation_method
-  - Quiz  ML Interpretation
-  - C3M3_Assignment: Model Interpretation Methods
+  - Labs:
+    - AI4M_C3_M3_lecture_notebook_gradcam
+    - AI4M_C3_M3_lecture_notebook_gradcam_2
+    - [AI4M_C3_M3_lecture_notebook_permutation_method](https://nbviewer.jupyter.org/github/zonghui0228/coursera-learning/blob/master/AI%20for%20Medicine%20Specialization/AI%20for%20Medical%20Treatment/Week%203/AI4M_C3_M3_lecture_notebook_permutation_method.ipynb)
+  - Quiz:
+    - [Quiz  ML Interpretation](https://github.com/zonghui0228/coursera-learning/blob/master/AI%20for%20Medicine%20Specialization/AI%20for%20Medical%20Treatment/Week%203/Quiz%20%20ML%20Interpretation.pdf)
+  - Assignment:
+    - C3M3_Assignment: Model Interpretation Methods
 
