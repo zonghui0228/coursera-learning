@@ -19,4 +19,9 @@
   - Quiz  Information Extraction with NLP
   - C3M2_Assignment: Natural Language Entity Extraction
 - **week 3**
+  - AI4M_C3_M3_lecture_notebook_gradcam
+  - AI4M_C3_M3_lecture_notebook_gradcam_2
+  - AI4M_C3_M3_lecture_notebook_permutation_method
+  - Quiz  ML Interpretation
+  - C3M3_Assignment: Model Interpretation Methods
 
