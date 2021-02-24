@@ -26,11 +26,11 @@
     - [C3M2_Assignment: Natural Language Entity Extraction](https://nbviewer.jupyter.org/github/zonghui0228/coursera-learning/blob/master/AI%20for%20Medicine%20Specialization/AI%20for%20Medical%20Treatment/Week%202/C3M2_Assignment.ipynb)
 - **week 3**
   - Labs:
-    - AI4M_C3_M3_lecture_notebook_gradcam
-    - AI4M_C3_M3_lecture_notebook_gradcam_2
+    - [AI4M_C3_M3_lecture_notebook_gradcam](https://nbviewer.jupyter.org/github/zonghui0228/coursera-learning/blob/master/AI%20for%20Medicine%20Specialization/AI%20for%20Medical%20Treatment/Week%203/AI4M_C3_M3_lecture_notebook_gradcam.ipynb)
+    - [AI4M_C3_M3_lecture_notebook_gradcam_2](https://nbviewer.jupyter.org/github/zonghui0228/coursera-learning/blob/master/AI%20for%20Medicine%20Specialization/AI%20for%20Medical%20Treatment/Week%203/AI4M_C3_M3_lecture_notebook_gradcam_2.ipynb)
     - [AI4M_C3_M3_lecture_notebook_permutation_method](https://nbviewer.jupyter.org/github/zonghui0228/coursera-learning/blob/master/AI%20for%20Medicine%20Specialization/AI%20for%20Medical%20Treatment/Week%203/AI4M_C3_M3_lecture_notebook_permutation_method.ipynb)
   - Quiz:
-    - [Quiz  ML Interpretation](https://github.com/zonghui0228/coursera-learning/blob/master/AI%20for%20Medicine%20Specialization/AI%20for%20Medical%20Treatment/Week%203/Quiz%20%20ML%20Interpretation.pdf)
+    - [ML Interpretation](https://github.com/zonghui0228/coursera-learning/blob/master/AI%20for%20Medicine%20Specialization/AI%20for%20Medical%20Treatment/Week%203/Quiz%20%20ML%20Interpretation.pdf)
   - Assignment:
-    - C3M3_Assignment: Model Interpretation Methods
+    - [C3M3_Assignment: Model Interpretation Methods](https://nbviewer.jupyter.org/github/zonghui0228/coursera-learning/blob/master/AI%20for%20Medicine%20Specialization/AI%20for%20Medical%20Treatment/Week%203/C3M3_Assignment.ipynb)
 
